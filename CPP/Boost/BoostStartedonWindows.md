@@ -16,7 +16,7 @@
 
 ## ② Prepare to Use a Boost Library Binary
 
-- 以**管理员身份**运行PowerShell ，切换至 Boost 根目录 `C:\Program Files\boost\boost_1_77_0` 。因为 Boost 根目录的所处目录`C:\Program Files\` 的写入需要Windows管理员权限，所以需要以管理员身份运行PowerShell 。
+- 以**管理员身份**运行PowerShell ，切换至 Boost 根目录 `C:\Program Files\boost\boost_1_77_0` 。因为 Boost 根目录的所处目录`C:\Program Files\` 的写入文件 需要Windows管理员权限，所以需要以管理员身份运行PowerShell 。
 
   在PowerShell的 Boost 根目录下，分别运行以下命令：
 
